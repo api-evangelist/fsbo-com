@@ -108,7 +108,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 16.7 |
 | Access clarity | 44.7 |
 
-**Agent readiness 6.7** — agent-aware
+**Agent readiness 4.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
